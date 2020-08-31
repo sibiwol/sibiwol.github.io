@@ -13,4 +13,5 @@ GitHub Guides 👉 https://guides.github.com/activities/hello-world/
 
 내일 볼페이지
 https://wiki.developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools</br>
-https://wiki.developer.mozilla.org/ko/docs/Learn/Front-end_web_developer#Getting_started
+https://wiki.developer.mozilla.org/ko/docs/Learn/Front-end_web_developer#Getting_started</br>
+https://wiki.developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
