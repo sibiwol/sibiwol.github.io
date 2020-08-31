@@ -9,8 +9,8 @@ GitHub Guides 👉 https://guides.github.com/activities/hello-world/
 
 8주간 부트캠프 중 하나인 스파르타코딩클럽을 통해 작은 프로젝트 완성했다</br>
 만들며 느낀점은 프론트엔드가 재밌다는 것!</br>   
-목표는 풀스택이지만 흥미를 느낀 프론트엔드에 두달동안 주력할 것이다.
-</br>
+목표는 풀스택이지만 흥미를 느낀 프론트엔드에 두달동안 주력할 것이다.</br>
+
 내일 볼 페이지</br>
 * 학습경로 👉 https://wiki.developer.mozilla.org/ko/docs/Learn/Front-end_web_developer#Getting_started</br>
 * CSS 소개 👉 https://wiki.developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS</br>
