@@ -1,3 +1,9 @@
+---
+title: "Fist Post!"
+date: 2017-10-20 08:26:28 -0400
+categories: jekyll update
+---
+
 # 2020.08.30 TIL
 
 3일동안 끙끙 앓던 github blog. 여러 블로그들을 읽으며 만드는데 성공했다.</br>
